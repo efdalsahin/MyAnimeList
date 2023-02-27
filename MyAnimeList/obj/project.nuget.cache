@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3LS8FdoaY2Vapw2kl3GOd5if+FZsjuwVwZhZwEWkrXksWhz0ipY9Wm5Clv04l41wDMHsVhyyULjFsA4EA7YyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efdal\\source\\repos\\MyAnimeList\\MyAnimeList\\MyAnimeList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efdal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\efdal\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\efdal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
